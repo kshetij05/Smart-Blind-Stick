@@ -9,4 +9,4 @@ A brief study had been carried out to understand various issues related to the p
 
 The system consists of ultrasonic sensors, and the feedback is received through audio. The aim of the overall system is to provide a low-cost and efficient navigation and obstacle detection aid for the blind which gives a sense of artificial by providing information about the environmental scenario of static and dynamic objects around them, so that they can walk independently.
 
-This is my final year major project.
+
